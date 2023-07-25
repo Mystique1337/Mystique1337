@@ -1,9 +1,9 @@
 
 
 ### 👋 Hey there!
-I'm Ashinze Emmanuel, a Machine Learning Engineer and Data Science enthusiast passionate about turning data into meaningful insights and impactful solutions. 🤖📊
+I'm Ashinze Emmanuel, a Machine Learning Engineer and Data scientist passionate about turning data into meaningful insights and impactful solutions. 🤖📊
 
-🚀 As an aspiring data wizard, I spend my days exploring the endless possibilities of machine learning algorithms and diving deep into data analysis. From predictive modelling to natural language processing, I love unravelling hidden patterns in data. 🧙‍♂️📈
+🚀 As a data wizard, I spend my days exploring the endless possibilities of machine learning algorithms and diving deep into data analysis. From predictive modelling to natural language processing, I love unravelling hidden patterns in data. 🧙‍♂️📈
 
 💻 You'll often find me tinkering with code on GitHub, where I share my data science projects and showcase my journey in data. From building intuitive dashboards to developing advanced ML models, I thrive on the challenges data science presents. 🛠️📚
 
